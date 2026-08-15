@@ -2,7 +2,7 @@
 Когортний аналіз та Retention (SQL / Google Sheets)
 (https://docs.google.com/spreadsheets/d/1EtupfXauQGSFUhgJCdu3QvS9KYMCemQJgSbSRSc5QoI/edit?gid=836683059#gid=836683059))
 
-Tools: PostgreSQL, SQL, Google Sheets.
+Tools: PostgreSQL, Google Sheets.
 
 Description: Дослідження життєвого циклу користувачів та порівняльний аналіз показників утримання (Retention Rate) для промо- та органічного трафіку з розробкою стратегічних рекомендацій для бізнесу.
 
